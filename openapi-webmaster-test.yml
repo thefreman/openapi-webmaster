@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: root
+    username: tao
     password: P@ssw0rd
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://192.168.98.98:3306/openapi-admin?useUnicode=true&characterEncoding=utf8
